@@ -8,6 +8,8 @@ class RandomWalk:
         self.x_values = [0]
         self.y_values = [0]
 
+    
+
     def fill_walk(self):
         while len(self.x_values) < self.num_points:
 
